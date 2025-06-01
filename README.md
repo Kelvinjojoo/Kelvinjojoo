@@ -71,13 +71,12 @@ I'm passionate about solving real world problems using data and technology. My b
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Kelvinjojoo&show_icons=true&theme=radical" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kelvinjojoo&theme=radical" alt="GitHub Streak Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvinjojoo&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvinjojoo&layout=compact&langs_count=100&theme=radical" alt="Top Languages" />
   </p>
 
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Kelvinjojoo&theme=darkhub&no-frame=true&row=1&column=6" />
   </p>
-
 </details>
 
 
