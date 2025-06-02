@@ -48,6 +48,8 @@ I'm passionate about solving real world problems using data and technology. My b
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-42B029?style=flat&logo=anaconda&logoColor=white)
 
+### 🖧 Networking  
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 
 ---
 
