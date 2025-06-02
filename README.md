@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://pbs.twimg.com/media/GOvWOyKW0AEcpOi.jpg:large" alt="banner" />
-</p>
-
-
 # 👋 Hi, I'm Kelvin Jonathan Yusach
 
 🎓 4th-semester Data Science undergraduate at [BINUS University](https://binus.ac.id/), currently focusing on building practical, data driven solutions through analytical modeling, machine learning, and user-centered design.
